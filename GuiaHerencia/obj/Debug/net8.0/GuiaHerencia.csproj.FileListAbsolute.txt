@@ -1,0 +1,15 @@
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/bin/Debug/net8.0/GuiaHerencia
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/bin/Debug/net8.0/GuiaHerencia.deps.json
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/bin/Debug/net8.0/GuiaHerencia.runtimeconfig.json
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/bin/Debug/net8.0/GuiaHerencia.dll
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/bin/Debug/net8.0/GuiaHerencia.pdb
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.AssemblyInfoInputs.cache
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.AssemblyInfo.cs
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.csproj.CoreCompileInputs.cache
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.dll
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/refint/GuiaHerencia.dll
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.pdb
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.genruntimeconfig.cache
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/ref/GuiaHerencia.dll
+/Users/mattnzv/GuiaHerencia/GuiaHerencia/obj/Debug/net8.0/GuiaHerencia.sourcelink.json

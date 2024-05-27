@@ -14,4 +14,9 @@ public class Coche : Vehiculo
     {
         Console.WriteLine("Lavando el coche con cera y shampoo especial.");
     }
+
+    public override double CalcularTiempoMantenimiento()
+    {
+        return 2.5;
+    }
 }

@@ -9,4 +9,9 @@ public class Moto : Vehiculo
     {
         return 100.00;
     }
+
+    public override double CalcularTiempoMantenimiento()
+    {
+        return 1.5;
+    }
 }

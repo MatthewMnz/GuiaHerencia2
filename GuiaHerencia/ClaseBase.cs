@@ -15,4 +15,8 @@ public class Vehiculo
         Console.WriteLine("Lavando el vehiculo.");
     }
     
+    public virtual double CalcularTiempoMantenimiento()
+    {
+        return 1.0;
+    }
 }
